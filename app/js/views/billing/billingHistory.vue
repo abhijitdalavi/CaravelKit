@@ -11,7 +11,7 @@
                 <div id="card-errors" role="alert" class="alert alert-danger" v-show="error">{{error}}</div>
                 <div role="alert" class="alert alert-success" v-show="success">{{success}}</div>
             </div>
-        </div>
+        </div>        
         <table class="table table-striped table-custom">
             <thead>
                 <tr>
