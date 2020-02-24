@@ -282,18 +282,3 @@ We want to build the great product and we believe it's possible only when we col
 ## Important note about this free version
 
 This version of our SaaS boilerplate is free and it will NOT have all the features. 
-
-## Authors
-
-[Caravel Kit](https://www.caravelkit.com)
-
-[SaaS Idea](https://www.saasidea.io)
-
-## License
-
-Copyright (c) 2019 Caravel Kit [www.caravelkit.com](www.caravelkit.com) under the [MIT license](https://opensource.org/licenses/MIT).
-If you are interested in the full-functional version please check our website [www.caravelkit.com](https://www.caravelkit.com) for pricing and conditions.
-
-## Feedback
-
-* If you find a bug please open an issue or drop us a line at [info@caravelkit.com](info@caravelkit.com).
